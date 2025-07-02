@@ -5,12 +5,12 @@ Make sure you have Docker installed and running on your machine.
 ### 1. Build the Docker Image
 Open your terminal in the project's root directory and run the following command:
 ```bash
-docker build -t AIMon_Prototype .
+docker build -t AIMon_ProtoType .
 ```
 ### 2. Run the Docker Container
 Next, run the container you just built:
 ```bash
-docker run -p 8000:8000 AIMon_Prototype
+docker run -p 8000:8000 AIMon_ProtoType
 ```
 The API is now live and accessible at http://localhost:8000.
 
@@ -18,7 +18,7 @@ The API is now live and accessible at http://localhost:8000.
 ### 1. Clone this repository (if you haven't already)
 ```bash
 git clone https://github.com/sidrocks123/AIMon_ProtoType.git
-cd AIMon_Prototype
+cd AIMon_ProtoType
 ```
 ### 2. Create and activate a virtual environment
 ```bash
