@@ -1,5 +1,5 @@
 # Getting Started 
-You can run this prototype in two ways. Docker is the quickest and recommended method.
+You can run this prototype in two ways. 
 ## Run with Docker
 Make sure you have Docker installed and running on your machine.
 ### 1. Build the Docker Image
